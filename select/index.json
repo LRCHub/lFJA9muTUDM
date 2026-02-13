@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天使のクローバー（feat. Kagamine Rin）",
+  "base_artist": "DIVELA",
+  "createdAt": "2026-02-13T14:58:11.869277Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使のクローバー (feat. 鏡音リン)",
+      "artist": "DIVELA, 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_天使のクローバー_(feat._鏡音リン)_DIVELA,_鏡音リン.txt"
+    }
+  ]
+}
